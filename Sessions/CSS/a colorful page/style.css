@@ -1,0 +1,16 @@
+h1{
+    background: #12bcff;
+background: linear-gradient(90deg, rgba(18, 188, 255, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
+body{
+background-image: url(beach.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+p{
+        background: #e6ff00;
+background: linear-gradient(90deg, rgba(230, 255, 0, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
+ul{
+    background-color: rgba(255, 255, 255, 0.416);
+}
